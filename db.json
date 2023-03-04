@@ -1,4 +1,23 @@
 {
+  "newDelhi" : [
+     {"id":1 , "name":"Paschim Vihar"},
+     {"id":2 , "name":"Rohini"},
+     {"id":3 , "name":"Dwarka"},
+     {"id":4 , "name":"Connaught Place"},
+     {"id":5 , "name":"Aerocity"},
+     {"id":6 , "name":"Mahipalpur"},
+     {"id":7 , "name":"Vasant Kunj"},
+     {"id":8 , "name":"Saket"},
+     {"id":9 , "name":"Janakpuri"},
+     {"id":10 , "name":"Rajouri Garden"},
+     {"id":11, "name":"Friends Colony"},
+     {"id":12 , "name":"Netaji Subhash Place"},
+     {"id":13 , "name":"Mayur Vihar Phase"},
+     {"id":14 , "name":"Vivek Vihar Phase"},
+     {"id":15 , "name":"Lajpat Nagar"},
+     {"id":16 , "name":"Sahibabad"},
+     {"id":17, "name":"Jangpura Extension"}
+    ],
   "arrOfHangouts": [
     {
       "image": "./HomeImages/Hangout/hangout-img1.png",
